@@ -15,4 +15,4 @@ As of now, there are four projects projects.
 
 3) Prediction of the income of a person based on years of education and years of working experience.The database used is from the National Longitudinal Survey of Youth 1997-2011. This database is one typically used by US social scientists. It contains data about the earnings, educational status, ethnicity, financial status of the family when the subject was growing up and several other features. 
    The approach used here is to split the set into a train and test dataset, and perform multiple linear regression for the earnings based on the years of education and experience.
-   Judging from the outcome, the model can give approximate predictions however the error is still large. This could be improved by modelling the data with a Regression Decision Tree or maybe by introducing more features in the model.
+   Judging from the outcome, the model can give approximate predictions however the error is still large. This could be improved by modelling the data with a Decision Tree Regression or maybe by introducing more features into the Linear Regression model.
